@@ -6,7 +6,7 @@ After cleaning the dataset, this project explores global layoff trends to uncove
 
 ---
 
-Objective
+Objective:
 To analyze the cleaned data and identify:
 - Which companies, countries, and industries had the largest layoffs  
 - Trends over time (monthly and yearly)

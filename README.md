@@ -15,7 +15,7 @@ To analyze the cleaned data and identify:
 
 ---
 
-#Key SQL Concepts Used
+Key SQL Concepts Used
 
 - `GROUP BY`, `ORDER BY`, `LIMIT`
 - Aggregate functions: `SUM()`, `MAX()`, `MIN()`
@@ -39,6 +39,3 @@ Tools
 - SQL (MySQL)
 - Cleaned dataset from Project 1
 - GitHub for version control
-
-## 📁 File
-`layoffs_EDA.sql`
